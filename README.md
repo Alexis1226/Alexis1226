@@ -24,6 +24,7 @@
 
 
 <table><tr><td valign="top" width="50%">
+ 
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -37,6 +38,7 @@
 </div>  
 
 </td><td valign="top" width="50%">
+ 
 ## Github Stats 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis&layout=compact)](https://github.com/alexis1226/github-readme-stats)
