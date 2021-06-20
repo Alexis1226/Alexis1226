@@ -23,7 +23,7 @@
 
 
 
-<table align = "center"><tr><td valign="top" width="500%">
+<table align = "center"><tr><td valign="top" width="50%">
  
 ## Languages and Tools  
 <div align="center">  
