@@ -1,6 +1,6 @@
 
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" /> 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%" /> 
   .
 <br/>  
 <br/>
