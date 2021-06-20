@@ -2,7 +2,7 @@
 
 
 
-### <div align="center">I'm Alexis Suh!, who dream a Front-End developer 👨‍💻</div>  
+### <div align="left">I'm Alexis Suh!, who dream a Front-End developer 👨‍💻</div>  
  
 <br/>  
 
@@ -21,10 +21,6 @@
 
 <br/>  
 
-
-
-<table align = "center" border = "0" width ="80%"><tr><td valign="top" width="50%">
- 
 ## Languages and Tools  
 <div align="center">  
 
@@ -37,23 +33,4 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-</div>  
-
-</td><td valign="top" width="50%">
- 
-## Github Stats 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis1226)](https://github.com/alexis1226/github-readme-stats)
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
+</div> 
