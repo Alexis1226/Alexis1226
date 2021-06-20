@@ -41,7 +41,7 @@
  
 ## Github Stats 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1226&layout=compact)](https://github.com/alexis1226/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis1226)](https://github.com/alexis1226/github-readme-stats)
 
 
 </td></tr></table>  
