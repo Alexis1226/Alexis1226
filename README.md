@@ -1,12 +1,8 @@
 
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%" /> 
-  .
-<br/>  
-<br/>
-<br/>
 
-## I'm Alexis Suh!  
+
+### <div align="center">I'm Alexis Suh!, who dream a Front-End developer 👨‍💻</div>  
   
 
 🌱 I’m currently learning React and Redux  
