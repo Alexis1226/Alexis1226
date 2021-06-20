@@ -3,7 +3,9 @@
 
 
 ### <div align="center">I'm Alexis Suh!, who dream a Front-End developer 👨‍💻</div>  
-  
+ 
+<br/>  
+
 
 🌱 I’m currently learning React and Redux  
   
@@ -20,6 +22,9 @@
 <br/>  
 
 
+
+<table><tr><td valign="top" width="50%">
+
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -32,17 +37,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-[![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis1226)](https://github.com/anuraghazra/github-readme-stats)
-
 </td><td valign="top" width="50%">
+## Github Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis&layout=compact)](https://github.com/alexis1226/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -55,5 +53,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
