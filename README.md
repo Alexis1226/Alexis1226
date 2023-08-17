@@ -11,15 +11,15 @@
 ⚡ Fun fact: dust in galaxy.
 
 <br/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=FFFFFF"/>
+<a><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=FFFFFF"/></a>&nbsp;
 <br/>
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/>
+<a><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=FFFFFF"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/></a>&nbsp;
 
 <br/>
 
